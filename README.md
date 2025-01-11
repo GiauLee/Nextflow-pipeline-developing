@@ -9,4 +9,4 @@
 
 **Introduction to nextflow**
 
-- [Slide](https://docs.google.com/presentation/d/1MMA9kpxB7mFZgQ7PR4GyqKiUrbEQajpwsf_YLpXjgCA/edit?usp=sharing)
+- [Slide](./Lecture0/Introduction_to_nextflow.pdf)
